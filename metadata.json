@@ -1,0 +1,6 @@
+{
+  "name": "Task Flow",
+  "description": "A clean, modern task manager with persistent to-do items, category filtering, priority indicators, and integrated banner space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
